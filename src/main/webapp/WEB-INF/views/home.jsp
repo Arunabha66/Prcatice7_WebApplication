@@ -10,10 +10,14 @@
 
 			<h1>
 <<<<<<< HEAD
+<<<<<<< HEAD
 			Arunabha 2nd Change-QA !!!!
 =======
 			Arunabha 1st Change !!!!
 >>>>>>> parent of 6728034... 1st change
+=======
+			Arunabha Third Change !!!!
+>>>>>>> parent of f0bc556... 2nd Commit
 			</h1>
 		
 			<div>
