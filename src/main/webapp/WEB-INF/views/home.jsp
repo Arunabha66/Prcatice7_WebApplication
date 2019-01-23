@@ -9,7 +9,11 @@
 		<div class="span10 offset1">
 
 			<h1>
+<<<<<<< HEAD
 			Arunabha 2nd Change-QA !!!!
+=======
+			Arunabha 1st Change !!!!
+>>>>>>> parent of 6728034... 1st change
 			</h1>
 		
 			<div>
