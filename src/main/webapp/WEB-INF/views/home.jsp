@@ -9,11 +9,7 @@
 		<div class="span10 offset1">
 
 			<h1>
-<<<<<<< HEAD
-          Change In the Dev Test!!!!
-=======
-          Change In the Stage!!!!
->>>>>>> parent of 596ad2d... Change in Dev
+Test Branch!!!
 			</h1>
 		
 			<div>
